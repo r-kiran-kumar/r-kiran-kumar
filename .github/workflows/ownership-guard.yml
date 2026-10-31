@@ -1,0 +1,17 @@
+name: Ownership Guard
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  ownership:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      # Blocks a merge when a header is missing or an identity line has drifted
+      # from company-info.json. Non-destructive: it only reads and reports.
+      - run: node scripts/check-ownership.mjs
