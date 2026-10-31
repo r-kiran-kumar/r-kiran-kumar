@@ -1,0 +1,42 @@
+# ============================================================================
+# R Kiran Kumar — Portfolio & Platform Robots Policy
+# https://rkirankumar.online/ | https://rkirankumar.com/
+# ============================================================================
+
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /public/
+Disallow: /admin/
+Disallow: /api/
+Disallow: /login
+
+# ─── Search Engines ──────────────────────────────────────────────────────────
+User-agent: Googlebot
+Allow: /
+Allow: /assets/
+
+User-agent: Googlebot-Image
+Allow: /assets/
+Allow: /public/
+
+User-agent: Bingbot
+Allow: /
+Allow: /assets/
+
+# ─── Social Media Link Preview Bots ─────────────────────────────────────────
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+# ─── Sitemaps ────────────────────────────────────────────────────────────────
+Sitemap: https://rkirankumar.online/sitemap.xml
+Sitemap: https://rkirankumar.com/sitemap.xml

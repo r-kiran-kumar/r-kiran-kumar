@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- ═══════════════════════════════════════════════════
+       CORE LANDING & PORTFOLIO PAGES
+  ═══════════════════════════════════════════════════ -->
+
+  <!-- Home / Main Portfolio Landing -->
+  <url>
+    <loc>https://rkirankumar.online/</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://rkirankumar.online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rkirankumar.online/"/>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/profile.webp</image:loc>
+      <image:title>R Kiran Kumar - Full Stack Developer &amp; Founder of ChronoSpark Solutions</image:title>
+      <image:caption>R Kiran Kumar, leading Full Stack and Multi-Disciplinary Software Engineer based in Kuppam, Andhra Pradesh, India.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/logo-dark.webp</image:loc>
+      <image:title>R Kiran Kumar Official Brand Logo</image:title>
+      <image:caption>ChronoSpark Solutions and R Kiran Kumar brand mark.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/project-chronospark.webp</image:loc>
+      <image:title>ChronoSpark Solutions Platform Architecture</image:title>
+      <image:caption>Corporate technology platform engineered by R Kiran Kumar.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- About Me -->
+  <url>
+    <loc>https://rkirankumar.online/#about</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/profile.webp</image:loc>
+      <image:title>R Kiran Kumar Profile &amp; Software Background</image:title>
+      <image:caption>Full Stack Developer specializing in Next.js, Node.js, Python, MySQL, and Flutter.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Disciplines / Engineering Focus -->
+  <url>
+    <loc>https://rkirankumar.online/#disciplines</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Core Services -->
+  <url>
+    <loc>https://rkirankumar.online/#services</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Featured Projects -->
+  <url>
+    <loc>https://rkirankumar.online/#projects</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/project-chronospark.webp</image:loc>
+      <image:title>ChronoSpark Solutions Website Showcase</image:title>
+      <image:caption>High performance Next.js corporate workspace with Google Review syncing.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/project-hipartner.png</image:loc>
+      <image:title>Hi Partner Hyperlocal Services Platform</image:title>
+      <image:caption>Voice-first platform built with Flutter and Node.js connecting skilled workers across Andhra Pradesh.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/project-kuppamapp.webp</image:loc>
+      <image:title>Kuppam Agri-Track Application</image:title>
+      <image:caption>Flutter agricultural tracking application for farmers in Gudupalli, Santhipuram, and Kuppam.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Blog / Insights -->
+  <url>
+    <loc>https://rkirankumar.online/#blogs</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/blog-ai-anxiety.webp</image:loc>
+      <image:title>Navigating AI Anxiety Article</image:title>
+      <image:caption>Technical article on navigating artificial intelligence shifts.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/blog-ai-crisis.webp</image:loc>
+      <image:title>AI and Human Confidence Article</image:title>
+      <image:caption>Article analyzing generative models and human creative agency.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Contact Form & Hiring -->
+  <url>
+    <loc>https://rkirankumar.online/#contact</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- ═══════════════════════════════════════════════════
+       CANONICAL PLATFORM SUB-PAGES & BLOG ARTICLES
+  ═══════════════════════════════════════════════════ -->
+
+  <!-- Canonical Web Platform Main Pages -->
+  <url>
+    <loc>https://rkirankumar.com/</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://rkirankumar.com/about</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://rkirankumar.com/projects</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://rkirankumar.com/projects/hi-partner</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/project-hipartner.png</image:loc>
+      <image:title>Hi Partner Mobile &amp; Web Platform Architecture</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://rkirankumar.com/blog</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://rkirankumar.com/gallery</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/gallery-design.webp</image:loc>
+      <image:title>R Kiran Kumar UI/UX Design Workspace</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/gallery-office.webp</image:loc>
+      <image:title>ChronoSpark Solutions Technology Hub</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/gallery-workshop.webp</image:loc>
+      <image:title>Software Development Workshop in Kuppam</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://rkirankumar.com/contact</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://rkirankumar.com/faqs</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://rkirankumar.com/privacy</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://rkirankumar.com/terms</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- ═══════════════════════════════════════════════════
+       TECHNICAL BLOG POSTS (INDIVIDUAL RICH INDEXING)
+  ═══════════════════════════════════════════════════ -->
+
+  <!-- Blog 1 -->
+  <url>
+    <loc>https://rkirankumar.com/blog/building-high-performance-nextjs-apps</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/blog-nextjs.webp</image:loc>
+      <image:title>Building High Performance Next.js Apps</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog 2 -->
+  <url>
+    <loc>https://rkirankumar.com/blog/why-tailwind-v4-is-a-game-changer</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/blog-tailwind.webp</image:loc>
+      <image:title>Why Tailwind CSS v4 is a Game Changer</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog 3 -->
+  <url>
+    <loc>https://rkirankumar.com/blog/silent-shift-ai-making-humans-question-worth</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/blog-silent-shift.webp</image:loc>
+      <image:title>The Silent Shift: Why AI is Making Humans Question Their Worth</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog 4 -->
+  <url>
+    <loc>https://rkirankumar.com/blog/overcoming-fear-of-black-box-ai-anxiety</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/blog-ai-anxiety.webp</image:loc>
+      <image:title>Overcoming the Fear of the Black Box: Navigating AI Anxiety</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog 5 -->
+  <url>
+    <loc>https://rkirankumar.com/blog/ai-crisis-human-confidence-reclaiming-creativity</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/blog-ai-crisis.webp</image:loc>
+      <image:title>AI and the Crisis of Human Confidence</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog 6 -->
+  <url>
+    <loc>https://rkirankumar.com/blog/rise-autonomous-agents-coping-cognitive-displacement</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/blog-autonomous-agents.webp</image:loc>
+      <image:title>The Rise of Autonomous Agents</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog 7 -->
+  <url>
+    <loc>https://rkirankumar.com/blog/why-we-fear-what-we-build-superintelligence</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/blog-superintelligence.webp</image:loc>
+      <image:title>Why We Fear What We Build: The Myth and Reality of Superintelligence</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog 8 -->
+  <url>
+    <loc>https://rkirankumar.com/blog/nextjs-16-building-lightning-fast-platforms</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/blog-nextjs16.webp</image:loc>
+      <image:title>Next.js 16: Building Lightning-Fast Dynamic Platforms</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog 9 -->
+  <url>
+    <loc>https://rkirankumar.com/blog/tailwind-css-v4-css-first-utility-architectures</loc>
+    <lastmod>2026-10-31T09:30:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rkirankumar.online/assets/blog-tailwind-v4.webp</image:loc>
+      <image:title>Tailwind CSS v4: The Shift to CSS-First Utility Architectures</image:title>
+    </image:image>
+  </url>
+
+</urlset>
