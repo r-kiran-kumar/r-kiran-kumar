@@ -22,6 +22,19 @@ async function ensureEnquirySchema() {
   }
 }
 
+const corsHeaders = {
+  'Access-Control-Allow-Origin': '*',
+  'Access-Control-Allow-Methods': 'POST, OPTIONS',
+  'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+};
+
+export async function OPTIONS() {
+  return new NextResponse(null, {
+    status: 204,
+    headers: corsHeaders,
+  });
+}
+
 export async function POST(request) {
   try {
     await ensureEnquirySchema();
@@ -30,7 +43,7 @@ export async function POST(request) {
     if (!name || !phone || !email || !message) {
       return NextResponse.json(
         { success: false, message: 'All fields are required.' },
-        { status: 400 }
+        { status: 400, headers: corsHeaders }
       );
     }
 
@@ -62,12 +75,13 @@ export async function POST(request) {
       success: true,
       message: 'Enquiry submitted successfully.',
       id
-    });
+    }, { headers: corsHeaders });
   } catch (error) {
     console.error('[API Contact Error]', error);
     return NextResponse.json(
       { success: false, message: 'Internal server error.' },
-      { status: 500 }
+      { status: 500, headers: corsHeaders }
     );
   }
 }
+
